@@ -1,6 +1,7 @@
 🇫🇮 🇬🇧 🇯🇵 
 Hi, I'm Juhani!<br/>  <br/>
 🌐 **Some of the technologies I've worked with** <br/>
+PHP<br/>
 JavaScript (React)<br/>
 Java (Spring Boot)<br/>
 Python (Django)
