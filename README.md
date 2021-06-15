@@ -1,16 +1,23 @@
-### Hi there 👋
+🇫🇮 🇬🇧 🇯🇵 
+Hi, I'm Juhani!<br/>  <br/>
+🌐 **Some of the technologies I've worked with** <br/>
+JavaScript (React)<br/>
+Java (Spring Boot)<br/>
+Python (Django)
+HTML5 𒑰 CSS3<br/>
+SQL<br/>
+Protractor
 
-<!--
-**qjk0/qjk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠 **OS**<br/>
+Debian <br/>
+Windows 3.11 -> 10<br/>
+Windows Server 2012<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 **Misc**<br/>
+Git<br/>
+AWS<br/>
+Jira<br/>
+Jenkins<br/>
+Docker<br/>
