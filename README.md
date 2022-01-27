@@ -1,4 +1,4 @@
-🇫🇮 🇬🇧 🇯🇵 
+🇫🇮   🇬🇧   🇯🇵 
 Hi, I'm Juhani!<br/>  <br/>
 🌐 **Some of the technologies I've worked with** <br/>
 Java (Spring Boot)<br/>
